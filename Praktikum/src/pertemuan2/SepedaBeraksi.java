@@ -14,6 +14,7 @@ public class SepedaBeraksi {
 
         Sepeda sepedaku = new Sepeda();
         sepedaku.gir = 4;
+        sepedaku.warna = "Silver";
         sepedaku.setGir(1);
         // menset nilai gir = 1 (sebelumnya 0) 
         System.out.println(

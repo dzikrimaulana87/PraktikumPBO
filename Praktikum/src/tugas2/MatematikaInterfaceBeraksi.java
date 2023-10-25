@@ -16,7 +16,7 @@ public class MatematikaInterfaceBeraksi {
         int hasilPertambahan = operasi.pertambahan(20, 10);
         int hasilPengurangan = operasi.pengurangan(10, 5);
         int hasilPerkalian = operasi.perkalian(10, 3);
-        int hasilPembagian = operasi.pembagian(21, 2);
+        float hasilPembagian = operasi.pembagian(21, 2);
 
         System.out.println("Pertambahan : 20 + 10 = " + hasilPertambahan);
         System.out.println("Pengurangan : 10 - 5 = " + hasilPengurangan);

@@ -10,7 +10,8 @@ package pertemuan2;
  */
 public class Sepeda {
 
-    int gir;
+    public int gir;
+    public String warna;
 // method (mutator) dengan parameter
 
     void setGir(int pertambahanGir) {

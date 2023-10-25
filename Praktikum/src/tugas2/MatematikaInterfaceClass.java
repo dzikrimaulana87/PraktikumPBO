@@ -26,8 +26,8 @@ public class MatematikaInterfaceClass implements MatematikaInterface {
     }
 
     @Override
-    public int pembagian(int a, int b) {
-        return a / b;
+    public float pembagian(int a, int b) {
+        return (float) a / b;
     }
 
 }

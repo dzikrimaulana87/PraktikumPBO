@@ -16,6 +16,6 @@ public interface MatematikaInterface {
 
     int perkalian (int a, int b);
 
-    int pembagian (int a, int b);
+    float pembagian (int a, int b);
 
 }
