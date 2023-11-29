@@ -35,7 +35,7 @@ public class TabelPerkalian {
                 System.out.printf("%5d", a+1);
             }
             System.out.println();
-            //Baris Vertical angka perkalian dan baris hasil
+            //Kolom Vertical angka perkalian dan baris hasil
             for (int b = 0; b < n; b++) {
                 System.out.printf("%5d", b+1);
                 for (int c = 0; c < n; c++) {
